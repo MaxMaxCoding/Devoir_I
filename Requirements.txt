@@ -1,5 +1,4 @@
-# Devoir_I
-Implémenter les algorithmes de recherche non-informée (DFS, BFS) et informée (A*) en intelligence artificielle.  Ce travail permet  de comprendre les différences entre les approches de recherche afin de trouver un chemin optimal dans un labyrinthe et d’analyser leurs performances respectives. les differentes fonctions ont été importé dans la fonction Main.py où le code sera excécuté afin d'avoir les resultats.
+Ici on la dépendance des differentes fonction entre elles:
 
 - la fonction maze.py est celle qui génère le labyrinthe et autres conraintes.
 - la fonction bfs.py dépend de la fonction maze.py et excute son type d'algorithme de recherche.
